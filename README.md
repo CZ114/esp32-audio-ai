@@ -1,6 +1,6 @@
 # ESP32 Audio AI
 
-ESP32 + MEMS麦克风 + AI语音分析的完整开源项目。
+ESP32 + MEMS麦克风 + AI语音分析的完整开源项目。(multiagent项目数据收集前置工作)
 
 ## 系统架构
 
