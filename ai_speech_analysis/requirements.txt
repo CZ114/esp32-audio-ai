@@ -1,0 +1,17 @@
+# AI Speech Analyzer - Python依赖
+
+# 语音识别
+openai>=1.0.0
+
+# 停顿检测
+webrtcvad>=2.0
+
+# 中文分词
+jieba>=0.42
+
+# 音频处理
+numpy>=1.20
+scipy>=1.8
+
+# 配置管理
+python-dotenv>=1.0

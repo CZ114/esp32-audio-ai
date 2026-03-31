@@ -1,0 +1,4 @@
+# PC Client - Python dependencies
+# client_udp.py uses only standard library
+# Optional: numpy for audio processing utilities
+numpy>=1.20.0
